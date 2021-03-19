@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>android on Gunadhya</title>
-    <link>https://github.com/gunadhya/website.github.io/tags/android/</link>
+    <link>https://github.com/gunadhya/gunadhya.github.io/tags/android/</link>
     <description>Recent content in android on Gunadhya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/gunadhya/website.github.io/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/gunadhya/gunadhya.github.io/tags/android/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apps made while learning android development</title>
-      <link>https://github.com/gunadhya/website.github.io/posts/androidlearn/</link>
+      <link>https://github.com/gunadhya/gunadhya.github.io/posts/androidlearn/</link>
       <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/gunadhya/website.github.io/posts/androidlearn/</guid>
+      <guid>https://github.com/gunadhya/gunadhya.github.io/posts/androidlearn/</guid>
       <description>These are some screenshots of the apps I made while learning android development through various tutorials and Moocs
 ColorMyViews  Sleep Tracker Quality    UI for an OBD2 reader  MotionLayout  Guess the word   
 Roll a dice  Kotlin Coroutines  </description>
@@ -20,10 +20,10 @@ Roll a dice  Kotlin Coroutines  </description>
     
     <item>
       <title>Android Home launcher from scratch</title>
-      <link>https://github.com/gunadhya/website.github.io/posts/launcher/</link>
+      <link>https://github.com/gunadhya/gunadhya.github.io/posts/launcher/</link>
       <pubDate>Sun, 20 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/gunadhya/website.github.io/posts/launcher/</guid>
+      <guid>https://github.com/gunadhya/gunadhya.github.io/posts/launcher/</guid>
       <description>Intro #  An attempt to create a simple android home screen launcher in kotlin.
 About #  Features #   Grid apps List apps Abilty to search for apps Gestures Support (Swipe Left to clear text, Swipe down to disable keyboard) App Size (small, medium, large) Always keyboard to search quickly Long press an app to uninstall the app or view system app settings Add blur to background (WIP)  Built using #   RecyclerView MVVM architecture Kotlin Android Studio Android ViewModel PackageManager Android Navigation Android Jetpack  Screenshots #  Grid View #   List View #   Settings #    </description>
     </item>

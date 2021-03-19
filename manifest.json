@@ -1,14 +1,14 @@
 {
   "name": "Gunadhya",
   "short_name": "Gunadhya",
-  "start_url": "/gunadhya/website.github.io/",
-  "scope": "/gunadhya/website.github.io/",
+  "start_url": "/gunadhya/gunadhya.github.io/",
+  "scope": "/gunadhya/gunadhya.github.io/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/gunadhya/website.github.io/favicon.svg",
+      "src": "/gunadhya/gunadhya.github.io/favicon.svg",
       "sizes": "512x512"
     }
   ]
