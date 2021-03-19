@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>launcher on Gunadhya</title>
-    <link>https://github.com/gunadhya/gunadhya.github.io/tags/launcher/</link>
+    <link>https://gunadhya.github.io/tags/launcher/</link>
     <description>Recent content in launcher on Gunadhya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/gunadhya/gunadhya.github.io/tags/launcher/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://gunadhya.github.io/tags/launcher/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Android Home launcher from scratch</title>
-      <link>https://github.com/gunadhya/gunadhya.github.io/posts/launcher/</link>
+      <link>https://gunadhya.github.io/posts/launcher/</link>
       <pubDate>Sun, 20 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/gunadhya/gunadhya.github.io/posts/launcher/</guid>
+      <guid>https://gunadhya.github.io/posts/launcher/</guid>
       <description>Intro #  An attempt to create a simple android home screen launcher in kotlin.
 About #  Features #   Grid apps List apps Abilty to search for apps Gestures Support (Swipe Left to clear text, Swipe down to disable keyboard) App Size (small, medium, large) Always keyboard to search quickly Long press an app to uninstall the app or view system app settings Add blur to background (WIP)  Built using #   RecyclerView MVVM architecture Kotlin Android Studio Android ViewModel PackageManager Android Navigation Android Jetpack  Screenshots #  Grid View #   List View #   Settings #    </description>
     </item>

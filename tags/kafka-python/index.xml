@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>kafka-python on Gunadhya</title>
-    <link>https://github.com/gunadhya/gunadhya.github.io/tags/kafka-python/</link>
+    <link>https://gunadhya.github.io/tags/kafka-python/</link>
     <description>Recent content in kafka-python on Gunadhya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/gunadhya/gunadhya.github.io/tags/kafka-python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://gunadhya.github.io/tags/kafka-python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Optimizing Public Transportation</title>
-      <link>https://github.com/gunadhya/gunadhya.github.io/posts/kafka/</link>
+      <link>https://gunadhya.github.io/posts/kafka/</link>
       <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/gunadhya/gunadhya.github.io/posts/kafka/</guid>
+      <guid>https://gunadhya.github.io/posts/kafka/</guid>
       <description>Simulate and display the status of train lines in real time by construction of a streaming event pipeline around Apache Kafka and its ecosystem using public data from the Chicago Transit Authority.
 Architecture #   Creating Kafka Producers #  To create a Kafka Producer we must define a model and schema and then configure the kafka producer to emit some events.
 Producer #  A producer partitioner maps each message to a topic partition, and the producer sends a produce request to the leader of that partition.</description>

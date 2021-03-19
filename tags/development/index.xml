@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>development on Gunadhya</title>
-    <link>https://github.com/gunadhya/gunadhya.github.io/tags/development/</link>
+    <link>https://gunadhya.github.io/tags/development/</link>
     <description>Recent content in development on Gunadhya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/gunadhya/gunadhya.github.io/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://gunadhya.github.io/tags/development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apps made while learning android development</title>
-      <link>https://github.com/gunadhya/gunadhya.github.io/posts/androidlearn/</link>
+      <link>https://gunadhya.github.io/posts/androidlearn/</link>
       <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/gunadhya/gunadhya.github.io/posts/androidlearn/</guid>
+      <guid>https://gunadhya.github.io/posts/androidlearn/</guid>
       <description>These are some screenshots of the apps I made while learning android development through various tutorials and Moocs
 ColorMyViews  Sleep Tracker Quality    UI for an OBD2 reader  MotionLayout  Guess the word   
 Roll a dice  Kotlin Coroutines  </description>
@@ -20,10 +20,10 @@ Roll a dice  Kotlin Coroutines  </description>
     
     <item>
       <title>Optimizing Public Transportation</title>
-      <link>https://github.com/gunadhya/gunadhya.github.io/posts/kafka/</link>
+      <link>https://gunadhya.github.io/posts/kafka/</link>
       <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/gunadhya/gunadhya.github.io/posts/kafka/</guid>
+      <guid>https://gunadhya.github.io/posts/kafka/</guid>
       <description>Simulate and display the status of train lines in real time by construction of a streaming event pipeline around Apache Kafka and its ecosystem using public data from the Chicago Transit Authority.
 Architecture #   Creating Kafka Producers #  To create a Kafka Producer we must define a model and schema and then configure the kafka producer to emit some events.
 Producer #  A producer partitioner maps each message to a topic partition, and the producer sends a produce request to the leader of that partition.</description>
@@ -31,10 +31,10 @@ Producer #  A producer partitioner maps each message to a topic partition, and t
     
     <item>
       <title>Android Home launcher from scratch</title>
-      <link>https://github.com/gunadhya/gunadhya.github.io/posts/launcher/</link>
+      <link>https://gunadhya.github.io/posts/launcher/</link>
       <pubDate>Sun, 20 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/gunadhya/gunadhya.github.io/posts/launcher/</guid>
+      <guid>https://gunadhya.github.io/posts/launcher/</guid>
       <description>Intro #  An attempt to create a simple android home screen launcher in kotlin.
 About #  Features #   Grid apps List apps Abilty to search for apps Gestures Support (Swipe Left to clear text, Swipe down to disable keyboard) App Size (small, medium, large) Always keyboard to search quickly Long press an app to uninstall the app or view system app settings Add blur to background (WIP)  Built using #   RecyclerView MVVM architecture Kotlin Android Studio Android ViewModel PackageManager Android Navigation Android Jetpack  Screenshots #  Grid View #   List View #   Settings #    </description>
     </item>

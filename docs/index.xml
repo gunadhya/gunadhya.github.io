@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docs on Gunadhya</title>
-    <link>https://github.com/gunadhya/gunadhya.github.io/docs/</link>
+    <link>https://gunadhya.github.io/docs/</link>
     <description>Recent content in Docs on Gunadhya</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://github.com/gunadhya/gunadhya.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://gunadhya.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
