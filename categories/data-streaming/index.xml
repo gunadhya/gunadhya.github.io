@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Streaming on Gunadhya</title>
+    <link>https://github.com/gunadhya/website.github.io/categories/data-streaming/</link>
+    <description>Recent content in Data Streaming on Gunadhya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/gunadhya/website.github.io/categories/data-streaming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Optimizing Public Transportation</title>
+      <link>https://github.com/gunadhya/website.github.io/posts/kafka/</link>
+      <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/gunadhya/website.github.io/posts/kafka/</guid>
+      <description>Simulate and display the status of train lines in real time by construction of a streaming event pipeline around Apache Kafka and its ecosystem using public data from the Chicago Transit Authority.
+Architecture #   Creating Kafka Producers #  To create a Kafka Producer we must define a model and schema and then configure the kafka producer to emit some events.
+Producer #  A producer partitioner maps each message to a topic partition, and the producer sends a produce request to the leader of that partition.</description>
+    </item>
+    
+  </channel>
+</rss>

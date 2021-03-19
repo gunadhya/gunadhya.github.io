@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/pages/design/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/docs/example/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/pages/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/docs/example/table-of-contents/with-toc/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/docs/example/table-of-contents/without-toc/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/docs/example/table-of-contents/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/docs/example/collapsed/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/categories/android/</loc>
+    <lastmod>2019-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/tags/android/</loc>
+    <lastmod>2019-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/tags/android-studio/</loc>
+    <lastmod>2019-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/posts/androidlearn/</loc>
+    <lastmod>2019-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/posts/</loc>
+    <lastmod>2019-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/categories/</loc>
+    <lastmod>2019-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/categories/data-streaming/</loc>
+    <lastmod>2019-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/categories/development/</loc>
+    <lastmod>2019-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/tags/development/</loc>
+    <lastmod>2019-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/</loc>
+    <lastmod>2019-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/tags/kafka/</loc>
+    <lastmod>2019-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/tags/kafka-python/</loc>
+    <lastmod>2019-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/tags/kafka-rest-proxy/</loc>
+    <lastmod>2019-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/categories/kotlin/</loc>
+    <lastmod>2019-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/tags/kotlin/</loc>
+    <lastmod>2019-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/tags/ksql/</loc>
+    <lastmod>2019-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/posts/kafka/</loc>
+    <lastmod>2019-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/tags/</loc>
+    <lastmod>2019-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/categories/android-development/</loc>
+    <lastmod>2019-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/posts/launcher/</loc>
+    <lastmod>2019-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/tags/android-development/</loc>
+    <lastmod>2019-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/tags/launcher/</loc>
+    <lastmod>2019-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/tags/mvvm/</loc>
+    <lastmod>2019-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/docs/example/collapsed/3rd-level/4th-level/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/docs/example/collapsed/3rd-level/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/docs/example/hidden/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/docs/shortcodes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/docs/shortcodes/buttons/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/docs/shortcodes/columns/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/docs/shortcodes/details/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/docs/shortcodes/expand/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/docs/shortcodes/hints/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/docs/shortcodes/katex/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/docs/shortcodes/mermaid/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/docs/shortcodes/section/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/docs/shortcodes/section/page1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/docs/shortcodes/section/page2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/docs/shortcodes/tabs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/pages/shortcodes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/pages/shortcodes/buttons/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/pages/shortcodes/columns/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/pages/shortcodes/details/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/pages/shortcodes/expand/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/pages/shortcodes/hints/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/pages/shortcodes/katex/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/pages/shortcodes/mermaid/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/pages/shortcodes/section/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/pages/shortcodes/section/page1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/pages/shortcodes/section/page2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/pages/shortcodes/tabs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/docs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/gunadhya/website.github.io/pages/</loc>
+  </url>
+  
+</urlset>

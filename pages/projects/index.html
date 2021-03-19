@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta name="generator" content="Hugo 0.80.0" />
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Projects #  Cloud DevOps Engineer Capstone #  In this project I created a kubernetes cluster using AWS EKS(Elastic Kubernetes Cluster). Provisioning a pipeline that tests an application and builds a docker image for it. Then the image is published on dockerhub. After the image is successfully built and pushed the deployment job is used to configure the kubernetes cluster to deploy the container image with an external load balancer service to interact with the application.">
+<meta name="theme-color" content="#FFFFFF"><meta property="og:title" content="Projects" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://github.com/gunadhya/website.github.io/pages/projects/" />
+
+<title>Projects | Gunadhya</title>
+<link rel="manifest" href="/gunadhya/website.github.io/manifest.json">
+<link rel="icon" href="/gunadhya/website.github.io/favicon.png" type="image/x-icon">
+<link rel="stylesheet" href="/gunadhya/website.github.io/book.min.768565a916e95d7d48e0cf99a6558ce848b69248a6f888bb60b6d231e2420278.css" integrity="sha256-doVlqRbpXX1I4M&#43;ZplWM6Ei2kkim&#43;Ii7YLbSMeJCAng=">
+<script defer src="/gunadhya/website.github.io/en.search.min.7d47138b907af549a4f05267b7f3fb797653390575993a2b5165d9f30c94ccc6.js" integrity="sha256-fUcTi5B69Umk8FJnt/P7eXZTOQV1mTorUWXZ8wyUzMY="></script>
+<link rel="alternate" type="application/rss+xml" href="https://github.com/gunadhya/website.github.io/pages/projects/index.xml" title="Gunadhya" />
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+
+  
+</head>
+
+<body dir="ltr">
+  <input type="checkbox" class="hidden toggle" id="menu-control" />
+  <input type="checkbox" class="hidden toggle" id="toc-control" />
+  <main class="container flex">
+    <aside class="book-menu">
+      <div class="book-menu-content">
+        
+  <nav>
+<h2 class="book-brand">
+  <a href="/gunadhya/website.github.io"><span>Gunadhya</span>
+  </a>
+</h2>
+
+
+<div class="book-search">
+  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
+  <div class="book-search-spinner hidden"></div>
+  <ul id="book-search-results"></ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  <!-- - [**Example Site**](/gunadhya/website.github.io/docs/example/)
+- [Table of Contents](/gunadhya/website.github.io/docs/example/table-of-contents/)
+  - [With ToC](/gunadhya/website.github.io/docs/example/table-of-contents/with-toc/)
+  - [Without ToC](/gunadhya/website.github.io/docs/example/table-of-contents/without-toc/)
+- [Collapsed](/gunadhya/website.github.io/docs/example/collapsed/)
+  - [3rd](/gunadhya/website.github.io/docs/example/collapsed/3rd-level/)
+    - [4th](/gunadhya/website.github.io/docs/example/collapsed/3rd-level/4th-level/)
+<br />
+
+- **Shortcodes**
+- [Buttons](/gunadhya/website.github.io/docs/shortcodes/buttons/)
+- [Columns](/gunadhya/website.github.io/docs/shortcodes/columns/)
+- [Expand](/gunadhya/website.github.io/docs/shortcodes/expand/)
+- [Hints](/gunadhya/website.github.io/docs/shortcodes/hints/)
+- [Katex](/gunadhya/website.github.io/docs/shortcodes/katex/)
+- [Mermaid](/gunadhya/website.github.io/docs/shortcodes/mermaid/)
+- [Tabs](/gunadhya/website.github.io/docs/shortcodes/tabs/)
+<br /> -->
+<ul>
+<li><a href="/gunadhya/website.github.io/"><strong>Home</strong></a></li>
+<li><a href="/gunadhya/website.github.io/pages/projects/"class=active><strong>Projects</strong></a></li>
+<li><a href="/gunadhya/website.github.io/pages/design/"><strong>Art/Design</strong></a>
+<br /></li>
+</ul>
+
+
+
+
+
+
+  
+<ul>
+  
+  <li>
+    <a href="/gunadhya/website.github.io/posts/" >
+        Blog
+      </a>
+  </li>
+  
+</ul>
+
+
+
+
+
+
+</nav>
+
+
+
+
+  <script>(function(){var menu=document.querySelector("aside.book-menu nav");addEventListener("beforeunload",function(event){localStorage.setItem("menu.scrollTop",menu.scrollTop);});menu.scrollTop=localStorage.getItem("menu.scrollTop");})();</script>
+
+
+ 
+      </div>
+    </aside>
+
+    <div class="book-page">
+      <header class="book-header">
+        
+  <div class="flex align-center justify-between">
+  <label for="menu-control">
+    <img src="/gunadhya/website.github.io/svg/menu.svg" class="book-icon" alt="Menu" />
+  </label>
+
+  <strong>Projects</strong>
+
+  <label for="toc-control">
+    
+    <img src="/gunadhya/website.github.io/svg/toc.svg" class="book-icon" alt="Table of Contents" />
+    
+  </label>
+</div>
+
+
+  
+  <aside class="hidden clearfix">
+    
+  
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#cloud-devops-engineer-capstone">Cloud DevOps Engineer Capstone</a></li>
+    <li><a href="#operationalize-a-machine-learning-microservice-api">Operationalize a Machine Learning Microservice API</a></li>
+    <li><a href="#application-with-auto-deploy-superpowers">Application with Auto-Deploy Superpowers</a></li>
+    <li><a href="#high-availability-web-app-using-cloudformation">High-availability web app using CloudFormation</a></li>
+    <li><a href="#static-website-on-aws">Static Website on AWS</a></li>
+    <li><a href="#spark-streaming">Spark Streaming</a></li>
+    <li><a href="#kafka-streaming">Kafka Streaming</a></li>
+    <li><a href="#image-watermarking-college-project">Image watermarking (College Project)</a></li>
+    <li><a href="#homelauncher">HomeLauncher</a></li>
+  </ul>
+</nav>
+
+
+
+  </aside>
+  
+ 
+      </header>
+
+      
+      
+  <article class="markdown"><h1 id="projects">
+  Projects
+  <a class="anchor" href="#projects">#</a>
+</h1>
+<h2 id="cloud-devops-engineer-capstone">
+  Cloud DevOps Engineer Capstone
+  <a class="anchor" href="#cloud-devops-engineer-capstone">#</a>
+</h2>
+<p>In this project I created a kubernetes cluster using AWS EKS(Elastic Kubernetes Cluster). Provisioning a pipeline that tests an application and builds a docker image for it. Then the image is published on dockerhub. After the image is successfully built and pushed the deployment job is used to configure the kubernetes cluster to deploy the container image with an external load balancer service to interact with the application. If the deployment is successful the new version of the application is deployed to showcase rolling update strategy.</p>
+
+
+
+  
+  
+
+
+<a  href="https://github.com/gunadhya/cdecapstone"   target="_blank"  class="book-btn">
+  Link
+</a>
+
+<h2 id="operationalize-a-machine-learning-microservice-api">
+  Operationalize a Machine Learning Microservice API
+  <a class="anchor" href="#operationalize-a-machine-learning-microservice-api">#</a>
+</h2>
+<p>A pre-trained, sklearn model that has been trained to predict housing prices is operationalized using flask, Docker and Kubernetes. This project also includes a pipeline to lint and build the docker image.</p>
+
+
+
+  
+  
+
+
+<a  href="https://github.com/gunadhya/predictmicroservice"   target="_blank"  class="book-btn">
+  Link
+</a>
+
+<h2 id="application-with-auto-deploy-superpowers">
+  Application with Auto-Deploy Superpowers
+  <a class="anchor" href="#application-with-auto-deploy-superpowers">#</a>
+</h2>
+<p>Building a full CI/CD pipeline with CircleCI, AWS Cloudformation, Ansible, AWS RDS. The application frontend and backend is built, tested and the infrastructure is configured and deployed using Ansible and cloudformation. The pipeline also performs migrations to a database deployed on RDS. In the end the application is made available using cloudfront.This pipeline includes rollback if a job fails including cleaning up resources and the deployment workflow is set to run on the main branch.</p>
+
+
+
+  
+  
+
+
+<a  href="https://github.com/gunadhya/udapeople"   target="_blank"  class="book-btn">
+  Link
+</a>
+
+<h2 id="high-availability-web-app-using-cloudformation">
+  High-availability web app using CloudFormation
+  <a class="anchor" href="#high-availability-web-app-using-cloudformation">#</a>
+</h2>
+<p>Code that creates and deploys the infrastructure and application for an Instagram-like app. Deploying the networking components, servers, security roles and software.</p>
+
+
+
+  
+  
+
+
+<a  href="https://github.com/gunadhya/HighAvailabilityWebApp"   target="_blank"  class="book-btn">
+  Link
+</a>
+
+<h2 id="static-website-on-aws">
+  Static Website on AWS
+  <a class="anchor" href="#static-website-on-aws">#</a>
+</h2>
+<p>S3 bucket  configuration for website hosting and securing it using IAM policies. Content delivery using CloudFront.</p>
+<h2 id="spark-streaming">
+  Spark Streaming
+  <a class="anchor" href="#spark-streaming">#</a>
+</h2>
+<p>Continues on the previous project by analyzing a dataset of the SF Crime Rate, to provide analysis using Apache Spark Structured Streaming.(Data Streaming).</p>
+
+
+
+  
+  
+
+
+<a  href="https://github.com/gunadhya/Spark-Streaming-Project"   target="_blank"  class="book-btn">
+  Link
+</a>
+
+<h2 id="kafka-streaming">
+  Kafka Streaming
+  <a class="anchor" href="#kafka-streaming">#</a>
+</h2>
+<p>Streaming public transit status using Kafka and the Kafka ecosystem (REST Proxy, Kafka Connect, KSQL, and Faust) to build a stream processing application that shows the status of trains in real-time</p>
+
+
+
+  
+  
+
+
+<a  href="https://github.com/gunadhya/KafkaStreamingProject"   target="_blank"  class="book-btn">
+  Link
+</a>
+
+<h2 id="image-watermarking-college-project">
+  Image watermarking (College Project)
+  <a class="anchor" href="#image-watermarking-college-project">#</a>
+</h2>
+<p>This project deals with hiding information into images using a mix of classical and modern watermarking techniques with Deep Learning.</p>
+<h2 id="homelauncher">
+  HomeLauncher
+  <a class="anchor" href="#homelauncher">#</a>
+</h2>
+<p>A simple android home launcher which focuses on search and minimalism. This project follows the android dev guidelines such as MVVM architecture and data binding techniques. This project also utilises the core native api’s for handling packages and system calls to handle app lifecycles on android.</p>
+
+
+
+
+  
+
+<a  href="/gunadhya/website.github.io/posts/launcher/"   class="book-btn">
+  Link
+</a>
+
+</article>
+ 
+      
+
+      <footer class="book-footer">
+        
+  <div class="flex flex-wrap justify-between">
+
+
+
+
+
+</div>
+
+ 
+        
+      </footer>
+
+      
+  
+  <div class="book-comments">
+
+</div>
+  
+ 
+
+      <label for="menu-control" class="hidden book-menu-overlay"></label>
+    </div>
+
+    
+    <aside class="book-toc">
+      <div class="book-toc-content">
+        
+  
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#cloud-devops-engineer-capstone">Cloud DevOps Engineer Capstone</a></li>
+    <li><a href="#operationalize-a-machine-learning-microservice-api">Operationalize a Machine Learning Microservice API</a></li>
+    <li><a href="#application-with-auto-deploy-superpowers">Application with Auto-Deploy Superpowers</a></li>
+    <li><a href="#high-availability-web-app-using-cloudformation">High-availability web app using CloudFormation</a></li>
+    <li><a href="#static-website-on-aws">Static Website on AWS</a></li>
+    <li><a href="#spark-streaming">Spark Streaming</a></li>
+    <li><a href="#kafka-streaming">Kafka Streaming</a></li>
+    <li><a href="#image-watermarking-college-project">Image watermarking (College Project)</a></li>
+    <li><a href="#homelauncher">HomeLauncher</a></li>
+  </ul>
+</nav>
+
+
+ 
+      </div>
+    </aside>
+    
+  </main>
+
+  
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
