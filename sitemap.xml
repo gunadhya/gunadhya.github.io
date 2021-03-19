@@ -31,26 +31,6 @@
   </url>
   
   <url>
-    <loc>https://gunadhya.github.io/categories/android/</loc>
-    <lastmod>2019-11-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gunadhya.github.io/tags/android/</loc>
-    <lastmod>2019-11-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gunadhya.github.io/tags/android-studio/</loc>
-    <lastmod>2019-11-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gunadhya.github.io/posts/androidlearn/</loc>
-    <lastmod>2019-11-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://gunadhya.github.io/posts/</loc>
     <lastmod>2019-11-02T00:00:00+00:00</lastmod>
   </url>
@@ -96,16 +76,6 @@
   </url>
   
   <url>
-    <loc>https://gunadhya.github.io/categories/kotlin/</loc>
-    <lastmod>2019-11-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gunadhya.github.io/tags/kotlin/</loc>
-    <lastmod>2019-11-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://gunadhya.github.io/tags/ksql/</loc>
     <lastmod>2019-11-02T00:00:00+00:00</lastmod>
   </url>
@@ -121,6 +91,11 @@
   </url>
   
   <url>
+    <loc>https://gunadhya.github.io/tags/android/</loc>
+    <lastmod>2019-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gunadhya.github.io/categories/android-development/</loc>
     <lastmod>2019-01-20T00:00:00+00:00</lastmod>
   </url>
@@ -132,6 +107,11 @@
   
   <url>
     <loc>https://gunadhya.github.io/tags/android-development/</loc>
+    <lastmod>2019-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gunadhya.github.io/tags/kotlin/</loc>
     <lastmod>2019-01-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -254,7 +234,23 @@
   </url>
   
   <url>
+    <loc>https://gunadhya.github.io/categories/android/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gunadhya.github.io/tags/android-studio/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gunadhya.github.io/posts/androidlearn/</loc>
+  </url>
+  
+  <url>
     <loc>https://gunadhya.github.io/docs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gunadhya.github.io/categories/kotlin/</loc>
   </url>
   
   <url>
