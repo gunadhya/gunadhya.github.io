@@ -7,12 +7,12 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://gunadhya.github.io/tags/android-studio/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Apps made while learning android development</title>
+      <title>Apps created while learning Android development.</title>
       <link>https://gunadhya.github.io/posts/androidlearn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gunadhya.github.io/posts/androidlearn/</guid>
-      <description>These are some screenshots of the apps I made while learning android development through various tutorials and Moocs
+      <description>These are some screenshots of the apps I created while learning Android development through various tutorials and MOOCs
 ColorMyViews  Sleep Tracker Quality    UI for an OBD2 reader  MotionLayout  Guess the word   
 Roll a dice  Kotlin Coroutines  </description>
     </item>
