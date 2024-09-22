@@ -27,11 +27,6 @@
   </url>
   
   <url>
-    <loc>https://gunadhya.github.io/posts/</loc>
-    <lastmod>2019-11-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://gunadhya.github.io/categories/</loc>
     <lastmod>2019-11-02T00:00:00+00:00</lastmod>
   </url>
@@ -83,6 +78,11 @@
   
   <url>
     <loc>https://gunadhya.github.io/tags/</loc>
+    <lastmod>2019-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gunadhya.github.io/posts/</loc>
     <lastmod>2019-11-02T00:00:00+00:00</lastmod>
   </url>
   
