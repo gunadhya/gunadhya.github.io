@@ -122,6 +122,11 @@
   </url>
   
   <url>
+    <loc>https://gunadhya.github.io/_index_new/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://gunadhya.github.io/docs/example/collapsed/3rd-level/4th-level/</loc>
   </url>
   
